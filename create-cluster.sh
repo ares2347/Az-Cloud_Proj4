@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Variables
-resourceGroup="acdnd-c4-project"
+resourceGroup="Az-Cloud"
 clusterName="udacity-cluster"
 
 # Install aks cli
 echo "Installing AKS CLI"
 
-sudo az aks install-cli
+# sudo az aks install-cli
 
 echo "AKS CLI installed"
 
